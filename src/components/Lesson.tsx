@@ -62,6 +62,5 @@ export function Lesson(props: LessonProps) {
                 </strong>
             </div>
         </Link>
-        
     )
 }
