@@ -8,7 +8,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        blur: 'url(/src/assets/blur-background.png)'
+        blur: 'url(/public/images/blur-background.png)'
       },
       //definir a fonte Roboto como padrão
       fontFamily: {

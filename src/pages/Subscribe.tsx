@@ -75,7 +75,7 @@ export function Subscribe() {
         </div>
       </div>
       <img
-        src="/src/assets/code-mockup.png"
+        src="/public/images/code-mockup.png"
         className="mt-10"
         alt="Imagem de código de programação"
       />
