@@ -5,13 +5,13 @@
 
 <br />
 
-># Sobre o Projeto
+>## 💻 Sobre o Projeto
 
 Aplicação em React de uma plataforma de evento desenvolvida durante o evento #IgniteLab da [Rocketseat](https://www.rocketseat.com.br/).
 
 <br />
 
-># Tecnologias Utilizadas
+>## 🚀 Tecnologias Utilizadas
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
@@ -20,7 +20,7 @@ Aplicação em React de uma plataforma de evento desenvolvida durante o evento #
 
 <br />
 
-># Deploy
+>## 🔨 Deploy
 
 https://ignite-lab-opal.vercel.app/
 
