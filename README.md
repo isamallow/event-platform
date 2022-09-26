@@ -1,5 +1,5 @@
 <div align="center">
-<h1>IgniteLab - Rocketseat</h1>
+<h1>Event Platform - Rocketseat</h1>
 <img height="450" src="https://i.postimg.cc/Nfzq7Xnt/ignite-lab-opal-vercel-app-Nest-Hub-Max.png" />
 </div>
 
